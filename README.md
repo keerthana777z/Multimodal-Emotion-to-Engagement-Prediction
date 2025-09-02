@@ -1,6 +1,6 @@
 #  Multimodal Emotion-to-Engagement Prediction
 
-A sophisticated AI-powered application that analyzes human emotions through facial expressions and speech patterns, providing intelligent chatbot responses to enhance user engagement.
+A sophisticated AI-powered application that analyzes human emotions through facial expressions and speech patterns, providing intelligent chatbot responses to enhance user engagement
 
 ## ✨ Features
 
