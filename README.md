@@ -1,14 +1,14 @@
-# 🎭 Multimodal Emotion-to-Engagement Prediction
+#  Multimodal Emotion-to-Engagement Prediction
 
 A sophisticated AI-powered application that analyzes human emotions through facial expressions and speech patterns, providing intelligent chatbot responses to enhance user engagement.
 
 ## ✨ Features
 
-- **🎥 Real-time Facial Emotion Detection** - Uses DeepFace AI to analyze facial expressions
-- **🎤 Speech Emotion Analysis** - Processes audio input for emotional tone detection
-- **🤖 Intelligent Chatbot** - Provides personalized responses based on detected emotions
-- **🎨 Modern UI** - Professional gradient design with smooth animations
-- **📱 Responsive Design** - Works seamlessly on desktop and mobile devices
+- ** Real-time Facial Emotion Detection** - Uses DeepFace AI to analyze facial expressions
+- ** Speech Emotion Analysis** - Processes audio input for emotional tone detection
+- **Intelligent Chatbot** - Provides personalized responses based on detected emotions
+- ** Modern UI** - Professional gradient design with smooth animations
+- **Responsive Design** - Works seamlessly on desktop and mobile devices
 
 ## 🚀 Quick Start
 
